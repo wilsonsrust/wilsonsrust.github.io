@@ -1,0 +1,164 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WilsonsRust – Gear & Games</title>
+  <style>
+    body {
+      background: linear-gradient(#1a1a1a, #2a1a1a);
+      color: #f0f0f0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #ffa500;
+      text-align: center;
+    }
+    img {
+      width: 100%;
+      max-width: 800px;
+      border-radius: 8px;
+      margin: 20px auto;
+      display: block;
+      box-shadow: 0 0 10px rgba(255, 102, 0, 0.6);
+    }
+    .scrollable-box {
+      max-height: 500px;
+      overflow-y: scroll;
+      padding: 15px;
+      border: 2px solid #ff6600;
+      background: #111;
+      color: #f0f0f0;
+      font-size: 14px;
+      border-radius: 10px;
+      margin: 40px 0;
+    }
+    .scrollable-box h2 {
+      color: #ffa500;
+      margin-top: 20px;
+    }
+    .scrollable-box ul {
+      list-style: none;
+      padding-left: 10px;
+    }
+    .scrollable-box li::before {
+      content: "\2022 ";
+      color: #ff6600;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎮 WilsonsRust: Setup & Games</h1>  <img src="mic_panel.png" alt="HyperX Mic Panel">
+  <img src="chair_panel.png" alt="Chair Panel">
+  <img src="pc_panel.png" alt="PC Specs Panel">
+  <img src="keyboard_panel.png" alt="SteelSeries Setup">  <div class="scrollable-box">
+  <h2>🎮 Currently Played / Featured</h2>
+  <ul>
+    <li>Red Dead Redemption 2</li>
+    <li>Escape from Tarkov</li>
+    <li>Marvel Snap</li>
+    <li>Marvel Mayhem</li>
+    <li>Midnight Suns</li>
+    <li>Clair Obscur: Expedition 33</li>
+    <li>Ghost of Tsushima</li>
+    <li>Diablo II: LOD Mods</li>
+    <li>FFXI (Valkrum Rising Private Server)</li>
+    <li>Spider-Man 2</li>
+    <li>Marvel Rivals</li>
+  </ul>  <h2>🧭 Final Fantasy Universe</h2>
+  <ul>
+    <li>FFI–VI Remastered</li>
+    <li>FFVII Remake Intergrade (includes Yuffie's Episode: INTERmission)</li>
+    <li>FFVII Rebirth</li>
+    <li>FFVII Crisis Core</li>
+    <li>FFVIII Remaster</li>
+    <li>FFIX Remaster</li>
+    <li>FFX</li>
+    <li>FFXI + Expansions (Private Server: Valkrum Rising)</li>
+    <li>FFXII Remaster</li>
+    <li>FFXIV (Private Server – pending)</li>
+    <li>FFXV</li>
+    <li>FFXVI</li>
+    <li>Final Fantasy Tactics: WOTL</li>
+    <li>FFIV: The After Years</li>
+    <li>World of Final Fantasy</li>
+    <li>Stranger of Paradise: FF Origins</li>
+  </ul>  <h2>🕹️ Classic & Remastered RPGs</h2>
+  <ul>
+    <li>Chrono Trigger</li>
+    <li>Chrono Cross</li>
+    <li>Tactics Ogre</li>
+    <li>Legend of Dragoon (Remastered)</li>
+    <li>Secret of Mana</li>
+    <li>Sea of Stars</li>
+    <li>Star Ocean</li>
+    <li>Octopath Traveler 1 & 2</li>
+    <li>Octopath Traveler: CotC</li>
+    <li>Dragon Quest III</li>
+    <li>Triangle Strategy</li>
+    <li>Bravely Default 1 & 2</li>
+  </ul>  <h2>🧨 Marvel Universe</h2>
+  <ul>
+    <li>Spider-Man Remastered (PC)</li>
+    <li>Spider-Man: Miles Morales</li>
+    <li>Spider-Man 2</li>
+    <li>Spider-Man Web of Shadows</li>
+    <li>The Amazing Spider-Man</li>
+    <li>Marvel's Wolverine (Upcoming)</li>
+    <li>Blade (Upcoming)</li>
+    <li>Guardians of the Galaxy</li>
+    <li>Marvel Avengers</li>
+    <li>Marvel Lego Super Heroes 2</li>
+    <li>Marvel Snap</li>
+    <li>Marvel Future Fight</li>
+    <li>Marvel Strike Force</li>
+    <li>Marvel Contest of Champions</li>
+    <li>Marvel Mystic Mayhem</li>
+    <li>Marvel Heroes (Private Server)</li>
+  </ul>  <h2>🔫 Shooters & Action</h2>
+  <ul>
+    <li>The Binding of Isaac</li>
+    <li>Unreal Tournament 2004</li>
+    <li>Quake II</li>
+    <li>Fortnite</li>
+    <li>Batman: Arkham Knight</li>
+    <li>The Punisher</li>
+    <li>Call of Juarez</li>
+    <li>Way of the Hunter</li>
+    <li>Hogwarts Legacy</li>
+    <li>Jump Force</li>
+    <li>Kena: Bridge of Spirits</li>
+    <li>Monster Hunter (Pending)</li>
+    <li>Forspoken</li>
+    <li>Dark Souls II</li>
+    <li>Darkwood</li>
+    <li>God of War</li>
+    <li>The Witcher 3</li>
+    <li>Shredder’s Revenge</li>
+  </ul>  <h2>🎮 Other Highlights</h2>
+  <ul>
+    <li>Dragon Ball Z: Kakarot</li>
+    <li>DBZ Sparking Zero</li>
+    <li>Dragon Ball Xenoverse 2</li>
+    <li>Path of Exile</li>
+    <li>Starcraft</li>
+    <li>The Elder Scrolls V: Skyrim (Special & Legendary)</li>
+    <li>Harvestella</li>
+    <li>Little Nightmares 1 & 2</li>
+    <li>Call of the Wild</li>
+  </ul>  <h2>🧠 NSFW Games</h2>
+  <ul>
+    <li>Cozy Café (NSFW)</li>
+    <li>The Genesis Order (NSFW)</li>
+    <li>Treasures of Nadia</li>
+    <li>Lust Epidemic</li>
+  </ul>  <h2>🕰️ Expired / Legacy Streams</h2>
+  <ul>
+    <li>Various past game tags may have streamed under different names</li>
+    <li>Some older titles or alts no longer in rotation</li>
+  </ul>
+</div>  <h2>🔗 Sponsor links coming soon!</h2>
+</body>
+</html>
